@@ -1,0 +1,4 @@
+rootProject.name = 'codecov-test'
+
+include ':modules:module-1'
+include ':modules:module-2'
