@@ -21,4 +21,10 @@ public class HelloWorldTest {
         String actual = helloWorld.hello2();
         assertEquals("hello", actual);
     }
+
+    @Test
+    public void hello3Test() {
+        String actual = helloWorld.hello3();
+        assertEquals("hello", actual);
+    }
 }
