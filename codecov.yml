@@ -1,3 +1,2 @@
 comment:
-  layout: "header, diff, changes, sunburst, suggestions, tree"
-  behavior: spammy
+  layout: "header, diff"
